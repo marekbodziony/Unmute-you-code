@@ -1,4 +1,4 @@
-# Unmute-you-code
+# Unmute-your-code
 
 [Unmute your code](https://skillvalue.com/en/competitions/unmuteyourcode) - it was an online challange for programmers run by [SkillValue](https://skillvalue.com).  
 Starts on **June 20** - Ends on **July 20**
